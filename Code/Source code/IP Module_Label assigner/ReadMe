@@ -1,0 +1,12 @@
+Tools used:
+External library used: OPENCV 3.7
+Language Used: c/c++
+
+1. All the constants are defined in constants.h
+2. FSLemon.cpp is currently commented. This is a helper file for IP module developer. If you want to execute it uncomment it and compile recompile the code.
+3. test.cpp can be used to test serial communication. To use this file rename the function main_2 to main.
+3. we are using precompiled version of rs232.cpp file. The actual cpp file is also present at the 'Extra' directory
+4. Code is properly commented. Functionality of the function is mentioned where it is being declared.  
+5. Class diagram and other details are mentioned in reports.
+6. For other doubts and queries, feel free to contact me: pankajsi@cse.iitb.ac.in 
+

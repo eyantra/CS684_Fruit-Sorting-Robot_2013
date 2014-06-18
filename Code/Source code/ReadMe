@@ -1,0 +1,5 @@
+Code is maintained at two folders:
+	IP Module_Label assigner: this code runs on PC. It extract features of object and assign a class label to it.
+	FBV: This code runs on PC: It is the controller of the system. Itcommunicates with the code running on PC via serial communication
+
+Every folder has separate readme inside it.
